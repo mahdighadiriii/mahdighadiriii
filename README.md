@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ghadiri</h1>
-<h3 align="center">A passionate back-end developer from Iran</h3>
+<h3 align="center">A passionate back-end developer from Tehran</h3>
 </ul>
   <p class="head"></p>
   <ul>
