@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ghadiri</h1>
 <h3 align="center">A passionate back-end developer from Iran</h3>
+<h3 align="center">Hi, I am currently focused on Python language and Django framework for backend and SQL development.
+I tried to be active in various fields of programming and I am very interested in DevOps concepts and for this purpose I am familiar with Linux, Docker and Git operating systems.
+I am constantly improving my programming skills and am very interested in learning and improving.
+I am currently learning and working with the Django Rest Framework.
+The general structure of my work with Django, work with http request, work with view, work with URL, work with templates, work with models, work with forms, work with Django authentication system, work with HTML and CSS, server settings Linux and setting up a website.
+I have six years of work experience, one year was related to programming.</h3>
 
 - 🔭 I’m currently working on [Django-Advance-Blog](https://github.com/mahdighadiriii/Django-Advance-Blog)
 
