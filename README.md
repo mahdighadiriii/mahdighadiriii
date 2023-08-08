@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ghadiri</h1>
 <h3 align="center">A passionate back-end developer from Iran</h3>
 </ul>
-  <p class="head">Skills</p>
+  <p class="head"></p>
   <ul>
     <li>I am currently focused on Python language and Django framework for backend and SQL development.
 I tried to be active in various fields of programming and I am very interested in DevOps concepts and for this purpose I am familiar with Linux, Docker and Git operating systems.
