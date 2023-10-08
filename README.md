@@ -3,7 +3,7 @@
 </ul>
   <p class="head"></p>
   <ul>
-    <li>I am currently focused on the Python language and the Django framework for backend and SQL development. I have been actively involved in various programming fields and I am particularly interested in DevOps concepts. To support this interest, I have gained familiarity with Linux, Docker, and Git. I am constantly improving my programming skills and I am very interested in learning and growing. I am currently learning and working with the Django Rest Framework. The general structure of my work with Django includes working with HTTP requests, views, URLs, templates, models, forms, the Django authentication system, HTML and CSS, as well as server settings on Linux and website setup. I have one year of work experience. I am a junior developer.</li>
+    <li>Qualified and experienced Software engineer. Experience taken over many Back-end and API projects, at which has provided the skills of creating Web Development and Back-end Software. Background experience of more than 2 years in various systems. Experience in generating all technical reports. Self-motivated, works well as a team and independently. Adheres to processes/procedures.</li>
   </ul>
 
 - 🔭 I’m currently working on [Django-Advance-Blog](https://github.com/mahdighadiriii/Django-Advance-Blog)
