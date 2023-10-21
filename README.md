@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahdighadiriii](https://github.com/mahdighadiriii)
 
-- 💬 Ask me about **python, Linux**
+- 💬 Ask me about **python, Django**
 
 - 📫 How to reach me **mahdighadiriafzal@gmail.com**
 
