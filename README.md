@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **mahdighadiriafzal@gmail.com**
 
-- ⚡ Fun fact **While you sleep you can’t smell anything – even really, really bad or potent smells.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
