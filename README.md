@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Django-Advance-Blog](https://github.com/mahdighadiriii/Django-Advance-Blog)
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **DRF Projects as R&D Developer**
 
