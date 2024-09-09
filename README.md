@@ -3,7 +3,7 @@
 </ul>
   <p class="head"></p>
   <ul>
-    <li>Qualified and experienced Software engineer. Experience taken over many Back-end and API projects, at which has provided the skills of creating Web Development and Back-end Software. Background experience of more than 2 years in various systems. Experience in generating all technical reports. Self-motivated, works well as a team and independently. Adheres to processes/procedures.</li>
+    <li>A qualified and experienced software engineer with extensive expertise in back-end and API projects. Proficient in web development and back-end software creation, with over two years of experience across various systems. Skilled in generating comprehensive technical reports. Self-motivated and capable of working effectively both independently and as part of a team. Committed to adhering to established processes and procedures.</li>
   </ul>
 
 - 🔭 I’m currently working on [Django-Advance-Blog](https://github.com/mahdighadiriii/Django-Advance-Blog)
