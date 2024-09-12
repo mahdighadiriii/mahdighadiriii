@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **DRF Projects as R&D Developer**
+- 👯 I’m Working on **DRF Projects as R&D Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahdighadiriii](https://github.com/mahdighadiriii)
 
