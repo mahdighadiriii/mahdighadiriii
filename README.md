@@ -3,7 +3,7 @@
 </ul>
   <p class="head"></p>
   <ul>
-    <li>A qualified and experienced software engineer with extensive expertise in back-end and API projects. Proficient in web development and back-end software creation, with over two years of experience across various systems. Skilled in generating comprehensive technical reports. Self-motivated and capable of working effectively both independently and as part of a team. Committed to adhering to established processes and procedures.</li>
+    <li>Currently working full-time as a back-end developer for AVA Company, where I contribute to the development and maintenance of robust web applications and APIs. My role involves collaborating with cross-functional teams to ensure seamless integration and optimal performance of back-end systems.</li>
   </ul>
 
 - 🔭 I’m currently working for [AVA](https://ava.co.ir/fa)
