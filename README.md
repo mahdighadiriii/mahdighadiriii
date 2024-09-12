@@ -6,7 +6,7 @@
     <li>A qualified and experienced software engineer with extensive expertise in back-end and API projects. Proficient in web development and back-end software creation, with over two years of experience across various systems. Skilled in generating comprehensive technical reports. Self-motivated and capable of working effectively both independently and as part of a team. Committed to adhering to established processes and procedures.</li>
   </ul>
 
-- 🔭 I’m currently working on [Django-Advance-Blog](https://github.com/mahdighadiriii/Django-Advance-Blog)
+- 🔭 I’m currently working for (https://ava.co.ir/fa)
 
 - 🌱 I’m currently learning **Kubernetes**
 
