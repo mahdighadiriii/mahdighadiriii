@@ -1,63 +1,255 @@
-# Hi 👋, I'm Mahdi Ghadiri
-## Back-end Developer
+<div align="center">
+  
+# 👋 Welcome to My GitHub Universe
 
-- 🔭 I'm currently working as a **Back-end Developer** at [AVA](https://ava.co.ir/en), where I design and optimize APIs and server-side systems, collaborating with cross-functional teams to ensure scalability and performance.
-- 🌱 I'm diving into **FastAPI** to build modern, high-performance APIs.
-- 👯 I'm working on **Django REST Framework (DRF)** projects as an R&D Developer.
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/mahdighadiriii).
-- 💬 Ask me about **Python, Django, and FastAPI**!
-- 📫 Reach me at **mahdighadiriafzal@gmail.com**.
-- ⚡ Fun fact: I love hiking and capturing nature's beauty through photography!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I'm+Mahdi+Ghadiri;Back-end+Developer+%26+API+Architect;Python+%7C+Django+%7C+FastAPI+Expert;Building+Scalable+Systems" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=mahdighadiriii&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
 
 ---
 
-### Connect with Me:
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+
+**🔥 Passionate Back-end Developer** currently crafting robust APIs and server-side systems at **[AVA](https://ava.co.ir/en)**
+
+**🎯 Mission**: Building scalable, high-performance backend solutions that power modern applications
+
+**🌟 Currently**:
+- 💼 Working as **Back-end Developer** at AVA, designing optimized APIs and server-side systems
+- 🚀 Exploring **FastAPI** for modern, high-performance API development
+- 🔬 Contributing to **Django REST Framework (DRF)** projects as R&D Developer
+- 📸 Capturing nature's beauty through photography during hiking adventures
+
+**💡 Expertise Areas**:
+- RESTful API Design & Development
+- Database Optimization & Performance Tuning
+- Microservices Architecture
+- System Monitoring & Observability
+- Cloud Infrastructure & DevOps
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🐍 Backend Technologies
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahdi-ghadiriii/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,rabbitmq,celery" alt="Backend Tech" />
 </p>
 
----
-
-### Featured Project:
-- **[django-observability](https://github.com/mahdighadiriii/django-observability)**: A Django middleware that tracks metrics, traces, query counts, and execution times for each request, sending formatted logs via OTLP to Loki, Tempo, and Prometheus. Perfect for monitoring Django apps! [View on PyPI](https://pypi.org/project/django-observability/)
-
----
-
-### Languages and Tools:
+### ☁️ DevOps & Infrastructure
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,github,prometheus,grafana" alt="DevOps Tech" />
+</p>
+
+### 🔧 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,postman,swagger,junit,pytest" alt="Development Tools" />
 </p>
 
 ---
 
-### My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdighadiriii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdighadiriii&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+### 🎯 [django-observability](https://github.com/mahdighadiriii/django-observability)
+[![PyPI](https://img.shields.io/pypi/v/django-observability?color=blue&style=for-the-badge)](https://pypi.org/project/django-observability/)
+[![Downloads](https://img.shields.io/pypi/dm/django-observability?color=green&style=for-the-badge)](https://pypi.org/project/django-observability/)
+[![Stars](https://img.shields.io/github/stars/mahdighadiriii/django-observability?color=yellow&style=for-the-badge)](https://github.com/mahdighadiriii/django-observability)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdighadiriii&theme=radical" alt="GitHub Streak" />
-</p>
+**🔍 Advanced Django Monitoring Middleware**
+- Tracks metrics, traces, query counts, and execution times
+- OTLP integration with Loki, Tempo, and Prometheus
+- Production-ready observability solution
+
+</div>
+
+<div align="center">
+  
+### 🚀 [FullStack Web Application](https://github.com/mahdighadiriii/FullStack)
+[![GitHub](https://img.shields.io/github/stars/mahdighadiriii/FullStack?color=blue&style=for-the-badge)](https://github.com/mahdighadiriii/FullStack)
+
+**🌐 Modern Full-Stack Solution**
+- Django REST Framework backend
+- React + Next.js frontend
+- Vite for lightning-fast development
+- Complete authentication system
+
+</div>
 
 ---
 
-### Badges:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-4.0%2B-green" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-Learning-orange" alt="FastAPI" />
-  <img src="https://img.shields.io/github/stars/mahdighadiriii/django-observability" alt="Django Observability Stars" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahdighadiriii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdighadiriii&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdighadiriii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=mahdighadiriii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+| 🏢 **Company** | 💼 **Role** | 🗓️ **Duration** | 🛠️ **Technologies** |
+|:---:|:---:|:---:|:---:|
+| **AVA** | Back-end Developer | Current | Python, Django, DRF, PostgreSQL |
+| **R&D Projects** | Django Developer | Ongoing | Django, FastAPI, API Design |
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  
+```python
+class MahdiGhadiri:
+    def __init__(self):
+        self.name = "Mahdi Ghadiri"
+        self.role = "Back-end Developer"
+        self.company = "AVA"
+        self.location = "Iran"
+        
+    def current_focus(self):
+        return {
+            "learning": ["FastAPI", "Microservices", "Cloud Architecture"],
+            "working_on": ["Django Observability", "API Optimization"],
+            "collaborating": ["Cross-functional Teams", "Open Source"],
+            "improving": ["System Performance", "Code Quality"]
+        }
+    
+    def daily_routine(self):
+        return ["☕ Coffee", "💻 Code", "🐛 Debug", "🚀 Deploy", "📸 Photography"]
+```
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-ghadiriii/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdighadiriafzal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdighadiriii)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdighadiriii&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎨 Skills Visualization
+
+<div align="center">
+
+### Backend Development
+![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-90%25-success?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-75%25-blue?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-informational?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-80%25-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-85%25-yellow?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-90%25-orange?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-75%25-success?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Quick Facts
+
+<div align="center">
+
+| 🔥 **Metric** | 📊 **Value** |
+|:---:|:---:|
+| **Years of Experience** | 3+ |
+| **Languages Mastered** | Python, SQL, JavaScript |
+| **Projects Completed** | 20+ |
+| **API Endpoints Built** | 500+ |
+| **Coffee Consumed** | ♾️ |
+
+</div>
+
+---
+
+## 🎯 2024 Goals
+
+<div align="center">
+
+- [ ] 🚀 Master FastAPI and async programming
+- [ ] 📚 Contribute to 5+ open-source projects
+- [ ] 🏗️ Build a comprehensive microservices architecture
+- [ ] 📊 Implement advanced monitoring solutions
+- [ ] 🌟 Reach 1000+ GitHub stars across projects
+- [ ] 📸 Document 100+ hiking adventures
+
+</div>
+
+---
+
+## 💡 Fun Fact
+
+<div align="center">
+
+*"I believe the best APIs are like good photographs - they capture exactly what you need with perfect clarity and timing!"* 📸
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🙏 Thanks for Visiting!
+
+*If you found my work interesting, consider giving it a ⭐️*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+
+</div>
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by [Mahdi Ghadiri](https://github.com/mahdighadiriii)**
+
+*Last Updated: December 2024*
+
+</div>
