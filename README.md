@@ -240,20 +240,6 @@ class MahdiGhadiri:
 - [ ] 🌟 Reach 1000+ GitHub stars across projects
 - [ ] 📸 Document 100+ hiking adventures
 
-</div>
-
----
-
-## 💡 Fun Fact
-
-<div align="center">
-
-*"I believe the best APIs are like good photographs - they capture exactly what you need with perfect clarity and timing!"* 📸
-
-</div>
-
----
-
 <div align="center">
   
 ### 🙏 Thanks for Visiting!
