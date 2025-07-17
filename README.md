@@ -14,12 +14,12 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
-**🔥 Passionate Back-end Developer** currently crafting robust APIs and server-side systems at **[AVA](https://ava.co.ir/en)**
+**🔥 Passionate Back-end Developer** currently crafting robust APIs and server-side systems at a leading tech company
 
 **🎯 Mission**: Building scalable, high-performance backend solutions that power modern applications
 
 **🌟 Currently**:
-- 💼 Working as **Back-end Developer** at AVA, designing optimized APIs and server-side systems
+- 💼 Working as **Back-end Developer**, designing optimized APIs and server-side systems
 - 🚀 Exploring **FastAPI** for modern, high-performance API development
 - 🔬 Contributing to **Django REST Framework (DRF)** projects as R&D Developer
 - 📸 Capturing nature's beauty through photography during hiking adventures
@@ -49,6 +49,26 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,vim,postman,swagger,junit,pytest" alt="Development Tools" />
 </p>
+
+---
+
+## 🚀 What I Do Best
+
+<div align="center">
+
+### 🎯 **API Architecture & Development**
+Building RESTful APIs that handle millions of requests with optimal performance and security
+
+### 🏗️ **System Design & Scalability**
+Designing microservices architectures that grow with your business needs
+
+### 📊 **Performance Optimization**
+Database tuning, query optimization, and caching strategies for lightning-fast responses
+
+### 🔍 **Monitoring & Observability**
+Implementing comprehensive logging, metrics, and tracing for production systems
+
+</div>
 
 ---
 
@@ -116,7 +136,7 @@
 
 | 🏢 **Company** | 💼 **Role** | 🗓️ **Duration** | 🛠️ **Technologies** |
 |:---:|:---:|:---:|:---:|
-| **AVA** | Back-end Developer | Current | Python, Django, DRF, PostgreSQL |
+| **Tech Company** | Back-end Developer | Current | Python, Django, DRF, PostgreSQL |
 | **R&D Projects** | Django Developer | Ongoing | Django, FastAPI, API Design |
 
 </div>
@@ -132,7 +152,7 @@ class MahdiGhadiri:
     def __init__(self):
         self.name = "Mahdi Ghadiri"
         self.role = "Back-end Developer"
-        self.company = "AVA"
+        self.company = "Leading Tech Company"
         self.location = "Iran"
         
     def current_focus(self):
@@ -249,7 +269,5 @@ class MahdiGhadiri:
 <div align="center">
   
 **Made with ❤️ by [Mahdi Ghadiri](https://github.com/mahdighadiriii)**
-
-*Last Updated: December 2024*
 
 </div>
