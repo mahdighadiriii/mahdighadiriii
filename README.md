@@ -240,6 +240,8 @@ class MahdiGhadiri:
 - [ ] 🌟 Reach 1000+ GitHub stars across projects
 - [ ] 📸 Document 100+ hiking adventures
 
+---
+
 <div align="center">
   
 ### 🙏 Thanks for Visiting!
