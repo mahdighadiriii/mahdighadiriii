@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
-**🔥 Passionate Back-end Developer** currently crafting robust APIs and server-side systems at a leading tech company
+**🔥 Back-end Developer** currently crafting robust APIs and server-side systems at a leading tech company
 
 **🎯 Mission**: Building scalable, high-performance backend solutions that power modern applications
 
