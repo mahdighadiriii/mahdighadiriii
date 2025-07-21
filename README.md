@@ -229,7 +229,7 @@ class MahdiGhadiri:
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 <div align="center">
 
@@ -237,8 +237,6 @@ class MahdiGhadiri:
 - [ ] 📚 Contribute to 5+ open-source projects
 - [ ] 🏗️ Build a comprehensive microservices architecture
 - [ ] 📊 Implement advanced monitoring solutions
-- [ ] 🌟 Reach 1000+ GitHub stars across projects
-- [ ] 📸 Document 100+ hiking adventures
 
 ---
 
