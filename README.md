@@ -37,38 +37,39 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif">
 
 ```typescript
-const mahdiGhadiri = {
-    pronouns: "He" | "Him",
-    location: "🌍 Iran",
-    role: "Back-end Developer",
-    company: "Leading Tech Company",
+mahdi_ghadiri = {
+    "pronouns": ["He", "Him"],
+    "location": "🌍 Iran",
+    "role": "Back-end Developer",
+    "company": "Leading Tech Company",
     
-    code: {
-        languages: ["Python", "SQL", "JavaScript", "TypeScript"],
-        backend: ["Django", "FastAPI", "Flask", "DRF"],
-        databases: ["PostgreSQL", "Redis", "MongoDB", "Elasticsearch"],
-        devops: ["Docker", "Kubernetes", "Nginx", "CI/CD"],
-        monitoring: ["Prometheus", "Grafana", "Loki", "Tempo"],
-        messageQueues: ["RabbitMQ", "Celery", "Kafka"]
+    "code": {
+        "languages": ["Python", "SQL", "JavaScript", "TypeScript"],
+        "backend": ["Django", "FastAPI", "Flask", "DRF"],
+        "databases": ["PostgreSQL", "Redis", "MongoDB", "Elasticsearch"],
+        "devops": ["Docker", "Kubernetes", "Nginx", "CI/CD"],
+        "monitoring": ["Prometheus", "Grafana", "Loki", "Tempo"],
+        "messageQueues": ["RabbitMQ", "Celery", "Kafka"]
     },
     
-    currentFocus: [
+    "currentFocus": [
         "🎯 Mastering FastAPI & Async Programming",
         "☁️ Building Cloud-Native Microservices",
         "📊 Advanced System Observability",
         "🔐 Zero-Trust Security Architecture"
     ],
     
-    architecture: {
-        patterns: ["Microservices", "Event-Driven", "CQRS", "DDD"],
-        principles: ["SOLID", "Clean Code", "DRY", "KISS"],
-        testing: ["TDD", "Integration Testing", "Load Testing"]
+    "architecture": {
+        "patterns": ["Microservices", "Event-Driven", "CQRS", "DDD"],
+        "principles": ["SOLID", "Clean Code", "DRY", "KISS"],
+        "testing": ["TDD", "Integration Testing", "Load Testing"]
     },
     
-    hobbies: ["📸 Photography", "🏔️ Hiking", "📚 Tech Blogs", "🎮 Gaming"],
+    "hobbies": ["📸 Photography", "🏔️ Hiking", "📚 Tech Blogs", "🎮 Gaming"],
     
-    funFact: "I debug with console.log... just kidding! 😄"
-};
+    "funFact": "I debug with console.log... just kidding! 😄"
+}
+
 ```
 
 <br clear="right"/>
