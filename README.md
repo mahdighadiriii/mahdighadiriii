@@ -47,16 +47,17 @@ mahdi_ghadiri = {
         "languages": ["Python", "SQL", "JavaScript", "TypeScript"],
         "backend": ["Django", "FastAPI", "Flask", "DRF"],
         "databases": ["PostgreSQL", "Redis", "MongoDB", "Elasticsearch"],
-        "devops": ["Docker", "Kubernetes", "Nginx", "CI/CD"],
+        "devops": ["Docker", "Kubernetes", "Helm", "Ingress", "Nginx", "CI/CD"],
         "monitoring": ["Prometheus", "Grafana", "Loki", "Tempo"],
         "messageQueues": ["RabbitMQ", "Celery", "Kafka"]
     },
     
     "currentFocus": [
-        "🎯 Mastering FastAPI & Async Programming",
-        "☁️ Building Cloud-Native Microservices",
-        "📊 Advanced System Observability",
-        "🔐 Zero-Trust Security Architecture"
+        "Mastering FastAPI & Async Programming",
+        "Building Cloud-Native Microservices",
+        "Advanced System Observability",
+        "Zero-Trust Security Architecture",
+        "Kubernetes Local & Cloud Deployments"
     ],
     
     "architecture": {
@@ -67,7 +68,7 @@ mahdi_ghadiri = {
     
     "hobbies": ["📸 Photography", "🏔️ Hiking", "📚 Tech Blogs", "🎮 Gaming"],
     
-    "funFact": "I debug with console.log... just kidding! 😄"
+    "funFact": "I run full K8s stack on my laptop with Minikube! ☸️"
 }
 
 ```
@@ -145,9 +146,10 @@ Continuous learning<br/>& improvement
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FFA000?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F52BA?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Ingress-Ready-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 📨 Message Brokers & Queues
@@ -834,6 +836,7 @@ print(status.get_availability())
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/open-source.svg" />
+  
 </p>
 
 ---
