@@ -36,7 +36,7 @@
 ```python
 profile = {
     "role": "Senior Backend Developer",
-    "location": "🌍 Iran",
+    "location": "Iran",
     "languages": ["Python", "SQL", "JavaScript"],
     "expertise": ["Django", "FastAPI", "DRF", "PostgreSQL"],
     "focus": [
@@ -46,26 +46,26 @@ profile = {
         "Cloud-Native Development"
     ],
     "currently_learning": "Advanced K8s Patterns",
-    "fun_fact": "Run full K8s stack locally ☸️"
+    "fun_fact": "Run full K8s stack locally"
 }
 ```
 
 <br clear="right"/>
 
-### 💡 What I Do Best
+### What I Do Best
 
 <table>
 <tr>
 <td align="center" width="33%">
-<b>🏗️ Architecture</b><br/>
+<b>Architecture</b><br/>
 Designing scalable<br/>microservices systems
 </td>
 <td align="center" width="33%">
-<b>⚡ Performance</b><br/>
+<b>Performance</b><br/>
 Optimizing APIs for<br/>high-traffic loads
 </td>
 <td align="center" width="33%">
-<b>📊 Observability</b><br/>
+<b>Observability</b><br/>
 Building monitoring<br/>& tracing solutions
 </td>
 </tr>
@@ -77,7 +77,7 @@ Building monitoring<br/>& tracing solutions
 ## Tech Stack
 
 <details open>
-<summary><b>🐍 Backend & APIs</b></summary>
+<summary><b>Backend & APIs</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -90,7 +90,7 @@ Building monitoring<br/>& tracing solutions
 </details>
 
 <details open>
-<summary><b>💾 Databases & Caching</b></summary>
+<summary><b>Databases & Caching</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -101,7 +101,7 @@ Building monitoring<br/>& tracing solutions
 </details>
 
 <details open>
-<summary><b>🚀 DevOps & Cloud</b></summary>
+<summary><b>DevOps & Cloud</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -113,7 +113,7 @@ Building monitoring<br/>& tracing solutions
 </details>
 
 <details open>
-<summary><b>📊 Monitoring & Observability</b></summary>
+<summary><b>Monitoring & Observability</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
@@ -124,7 +124,7 @@ Building monitoring<br/>& tracing solutions
 </details>
 
 <details open>
-<summary><b>📨 Message Brokers</b></summary>
+<summary><b>Message Brokers</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
@@ -144,7 +144,7 @@ Building monitoring<br/>& tracing solutions
 
 </div>
 
-### 🔍 [Django Observability](https://github.com/mahdighadiriii/django-observability)
+### [Django Observability](https://github.com/mahdighadiriii/django-observability)
 
 Production-ready Django middleware for comprehensive application monitoring with OpenTelemetry integration.
 
@@ -155,10 +155,10 @@ Production-ready Django middleware for comprehensive application monitoring with
 </p>
 
 **Key Features:**
-- 📊 Real-time metrics & distributed tracing
-- 🔍 Query performance monitoring
-- 📈 Prometheus, Loki & Tempo integration
-- ⚡ Production-tested on high-traffic systems
+- Real-time metrics & distributed tracing
+- Query performance monitoring
+- Prometheus, Loki & Tempo integration
+- Production-tested on high-traffic systems
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -182,43 +182,43 @@ Production-ready Django middleware for comprehensive application monitoring with
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Skills Matrix -->
-## 💪 Expertise Level
+## Expertise Level
 
 | Technology | Proficiency | Experience |
 |:-----------|:-----------:|:----------:|
-| 🐍 Python | `███████████████████░` 95% | 3+ years |
-| 🎯 Django | `██████████████████░░` 90% | 3+ years |
-| ⚡ FastAPI | `███████████████░░░░░` 75% | 1+ years |
-| 🐘 PostgreSQL | `█████████████████░░░` 85% | 3+ years |
-| 🐳 Docker/K8s | `███████████████░░░░░` 75% | 2+ years |
-| 🔴 Redis | `█████████████████░░░` 85% | 2+ years |
+| Python | `███████████████████░` 95% | 3+ years |
+| Django | `██████████████████░░` 90% | 3+ years |
+| FastAPI | `███████████████░░░░░` 75% | 1+ years |
+| PostgreSQL | `█████████████████░░░` 85% | 3+ years |
+| Docker/K8s | `███████████████░░░░░` 75% | 2+ years |
+| Redis | `█████████████████░░░` 85% | 2+ years |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- 2025 Goals -->
-## 🎯 2025 Roadmap
+## 2025 Roadmap
 
 ```yaml
 Q1 (Current):
-  ✅ Released Django Observability v1.0
-  🔄 Building microservices platform
-  🔄 Mastering FastAPI async patterns
+  - Released Django Observability v1.0
+  - Building microservices platform
+  - Mastering FastAPI async patterns
 
 Q2-Q3:
-  📚 Cloud architecture certification
-  🎤 Speaking at tech conferences
-  📝 Publishing technical blog series
+  - Cloud architecture certification
+  - Speaking at tech conferences
+  - Publishing technical blog series
 
 Q4:
-  🚀 Launch open-source API gateway
-  👥 Mentoring program launch
-  🌟 1000+ GitHub stars milestone
+  - Launch open-source API gateway
+  - Mentoring program launch
+  - 1000+ GitHub stars milestone
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Connect Section -->
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahdi-ghadiriii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -226,14 +226,14 @@ Q4:
   <a href="https://github.com/mahdighadiriii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-### 💬 Open For
+### Open For
 
 <table align="center">
 <tr>
-<td align="center">🤝 Open Source<br/>Collaboration</td>
-<td align="center">💼 Backend<br/>Consulting</td>
-<td align="center">🎤 Tech Talks<br/>& Workshops</td>
-<td align="center">👨‍🏫 Mentoring<br/>Developers</td>
+<td align="center">Open Source<br/>Collaboration</td>
+<td align="center">Backend<br/>Consulting</td>
+<td align="center">Tech Talks<br/>& Workshops</td>
+<td align="center">Mentoring<br/>Developers</td>
 </tr>
 </table>
 
@@ -244,6 +244,6 @@ Q4:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<sub>⭐️ From [mahdighadiriii](https://github.com/mahdighadiriii) • Last updated: Auto-generated via GitHub Actions</sub>
+<sub>From [mahdighadiriii](https://github.com/mahdighadiriii) • Last updated: Auto-generated via GitHub Actions</sub>
 
 </div>
