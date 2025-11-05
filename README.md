@@ -186,12 +186,12 @@ Production-ready Django middleware for comprehensive application monitoring with
 
 | Technology | Proficiency | Experience |
 |:-----------|:-----------:|:----------:|
-| Python | ![95%](https://progress-bar.dev/95?color=00FF87) | 3+ years |
-| Django | ![90%](https://progress-bar.dev/90?color=00FF87) | 3+ years |
-| FastAPI | ![75%](https://progress-bar.dev/75?color=FFB800) | 1+ years |
-| PostgreSQL | ![85%](https://progress-bar.dev/85?color=00FF87) | 3+ years |
-| Docker/K8s | ![75%](https://progress-bar.dev/75?color=FFB800) | 2+ years |
-| Redis | ![85%](https://progress-bar.dev/85?color=00FF87) | 2+ years |
+| 🐍 Python | `███████████████████░` 95% | 3+ years |
+| 🎯 Django | `██████████████████░░` 90% | 3+ years |
+| ⚡ FastAPI | `███████████████░░░░░` 75% | 1+ years |
+| 🐘 PostgreSQL | `█████████████████░░░` 85% | 3+ years |
+| 🐳 Docker/K8s | `███████████████░░░░░` 75% | 2+ years |
+| 🔴 Redis | `█████████████████░░░` 85% | 2+ years |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
