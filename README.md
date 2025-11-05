@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahdi%20Ghadiri&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Mahdi%20Ghadiri&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Backend+Engineer+%26+System+Architect;Building+High-Performance+Scalable+APIs;Python+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+K8s" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Backend+Engineer+%26+System+Architect;Building+High-Performance+Scalable+APIs;Python+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+K8s" alt="Typing SVG" />
 </a>
 
 <!-- Status Badges -->
