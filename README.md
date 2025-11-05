@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- About Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## About Me
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -74,7 +74,7 @@ Building monitoring<br/>& tracing solutions
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Tech Stack -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>🐍 Backend & APIs</b></summary>
@@ -136,7 +136,7 @@ Building monitoring<br/>& tracing solutions
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Featured Projects -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"> Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Production-ready Django middleware for comprehensive application monitoring with
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahdighadiriii&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF&icon_color=00FF87&text_color=c9d1d9" />
