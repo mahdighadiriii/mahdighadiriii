@@ -37,7 +37,7 @@
 profile = {
     "role": "Senior Backend Developer",
     "location": "Iran",
-    "languages": ["Python", "SQL", "JavaScript"],
+    "languages": ["Python", "SQL"],
     "expertise": ["Django", "FastAPI", "DRF", "PostgreSQL"],
     "focus": [
         "Microservices Architecture",
@@ -45,8 +45,7 @@ profile = {
         "API Design & Performance",
         "Cloud-Native Development"
     ],
-    "currently_learning": "Advanced K8s Patterns",
-    "fun_fact": "Run full K8s stack locally"
+    "currently_learning": "Advanced K8s",
 }
 ```
 
