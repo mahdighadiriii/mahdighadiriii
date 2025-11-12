@@ -194,25 +194,6 @@ Production-ready Django middleware for comprehensive application monitoring with
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- 2025 Goals -->
-## 2025 Roadmap
-
-```yaml
-Q1 (Current):
-  - Released Django Observability v1.0
-  - Building microservices platform
-  - Mastering FastAPI async patterns
-
-Q2-Q3:
-  - Cloud architecture certification
-  - Speaking at tech conferences
-  - Publishing technical blog series
-
-Q4:
-  - Launch open-source API gateway
-  - Mentoring program launch
-  - 1000+ GitHub stars milestone
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
