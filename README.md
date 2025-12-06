@@ -1,227 +1,161 @@
+# Mahdi Ghadiri
+
+**Senior Backend Engineer** | System Architect | DevOps Practitioner
+
+Building production-grade distributed systems with Python, Django, and cloud-native technologies. Currently focused on DevOps engineering, infrastructure automation, and architectural patterns.
+
+📍 Tehran, Iran  
+📧 mahdighadiriafzal@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-ghadiriii/)
+
+---
+
+## Current Focus
+
+**DevOps Engineering & Infrastructure** (Q1-Q2 2025)
+- Advanced Kubernetes patterns and operators
+- CI/CD pipeline optimization and GitOps workflows  
+- Infrastructure as Code (Terraform, Helm)
+- Cloud-native observability and monitoring
+- Container orchestration and service mesh architectures
+
+---
+
+## Professional Highlights
+
+**4+ Years Backend Engineering Experience** building high-scale production systems across ride-hailing, telecommunications infrastructure, and travel industries.
+
+**Key Achievements:**
+- Architected microservices infrastructure for real-time geolocation and ride-matching platform serving thousands of concurrent users
+- Built national-scale DCIM monitoring system tracking data center infrastructure across Iran's telecommunications network
+- Designed and implemented CI/CD pipelines eliminating deployment bottlenecks for 29-developer engineering teams
+- Developed comprehensive observability solutions using Prometheus, Grafana, Loki, and Tempo for critical infrastructure
+- Optimized database performance and query patterns for high-traffic applications handling millions of requests
+- Mentored engineering teams on architectural patterns, code quality, and DevOps best practices
+
+---
+
+## Technical Expertise
+
+### Backend & Core
+**Primary:** Python • Django • Django Rest Framework • FastAPI  
+**APIs & Architecture:** RESTful API Design • GraphQL • Microservices Architecture • Domain-Driven Design • Hexagonal Architecture • Clean Architecture • SOLID Principles
+
+### Infrastructure & DevOps
+**Containerization:** Docker • Kubernetes • Helm  
+**CI/CD:** GitLab CI/CD • GitHub Actions • Infrastructure as Code  
+**Orchestration:** Container Orchestration • Service Mesh • Nginx
+
+### Data & Storage
+**Databases:** PostgreSQL • MongoDB • InfluxDB  
+**Caching & Search:** Redis • Elasticsearch  
+**Optimization:** Query Optimization • Database Design • Indexing Strategies
+
+### Observability & Monitoring
+**Stack:** Prometheus • Grafana • Loki • Tempo • Sentry • OpenTelemetry  
+**Focus:** System Monitoring • Distributed Tracing • Performance Profiling • Alert Management
+
+### Async & Messaging
+**Message Brokers:** RabbitMQ • Apache Kafka  
+**Task Queues:** Celery  
+**Patterns:** Event-Driven Architecture • Pub/Sub • Message Queue Patterns
+
+---
+
+## GitHub Activity
+
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Mahdi%20Ghadiri&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdighadiriii&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00FF87&text_color=c9d1d9&bg_color=00000000)
 
-<!-- Dynamic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Backend+Engineer+%26+System+Architect;Building+High-Performance+Scalable+APIs;Python+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+K8s" alt="Typing SVG" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdighadiriii&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=00000000&langs_count=6)
 
-<!-- Status Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Backend-Developer-00D9FF?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based_in-Iran-FF6B9D?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_to-Collaborate-00FF87?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-<!-- Metrics -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mahdighadiriii&label=Views&color=00D9FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/mahdighadiriii?label=Followers&style=flat-square&color=00FF87" />
-  <img src="https://img.shields.io/github/stars/mahdighadiriii?label=Stars&style=flat-square&color=FF6B9D" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahdighadiriii&theme=transparent&hide_border=true&background=00000000&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&dates=c9d1d9)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### Most Used Technologies
 
-<!-- About Section -->
-## About Me
+| Category | Technologies | Usage Level |
+|----------|-------------|-------------|
+| **Backend Frameworks** | Django, FastAPI, DRF | ![](https://img.shields.io/badge/Expert-95%25-00D9FF) |
+| **Languages** | Python, SQL | ![](https://img.shields.io/badge/Expert-95%25-00D9FF) |
+| **Databases** | PostgreSQL, Redis | ![](https://img.shields.io/badge/Advanced-85%25-00FF87) |
+| **DevOps** | Docker, Kubernetes, GitLab CI | ![](https://img.shields.io/badge/Advanced-80%25-00FF87) |
+| **Observability** | Prometheus, Grafana, Loki | ![](https://img.shields.io/badge/Advanced-85%25-00FF87) |
+| **Architecture** | DDD, Hexagonal, Microservices | ![](https://img.shields.io/badge/Advanced-80%25-00FF87) |
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
-**Backend Engineer** specializing in building scalable, high-performance systems. Passionate about clean architecture, observability, and cloud-native technologies.
-
-```python
-profile = {
-    "role": "Senior Backend Developer",
-    "location": "Iran",
-    "languages": ["Python", "SQL"],
-    "expertise": ["Django", "FastAPI", "DRF", "PostgreSQL"],
-    "focus": [
-        "Microservices Architecture",
-        "System Observability",
-        "API Design & Performance",
-        "Cloud-Native Development"
-    ],
-    "currently_learning": "Advanced K8s",
-}
-```
-
-<br clear="right"/>
-
-### What I Do Best
-
-<table>
-<tr>
-<td align="center" width="33%">
-<b>Architecture</b><br/>
-Designing scalable<br/>microservices systems
-</td>
-<td align="center" width="33%">
-<b>Performance</b><br/>
-Optimizing APIs for<br/>high-traffic loads
-</td>
-<td align="center" width="33%">
-<b>Observability</b><br/>
-Building monitoring<br/>& tracing solutions
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Tech Stack -->
-## Tech Stack
-
-<details open>
-<summary><b>Backend & APIs</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Databases & Caching</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>DevOps & Cloud</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Monitoring & Observability</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Message Brokers</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-</p>
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Featured Projects -->
 ## Featured Projects
 
-<div align="center">
+### **[AI Gateway - DDD + Hexagonal Architecture](https://github.com/mahdighadiriii/AiGateway-DDD-Hexagonal)**
+*Primary Focus Project - Q1 2025*
 
-[![Django Observability](https://github-readme-stats.vercel.app/api/pin/?username=mahdighadiriii&repo=django-observability&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&border_color=30363d)](https://github.com/mahdighadiriii/django-observability)
+Enterprise-grade AI Gateway demonstrating advanced software architecture patterns for multi-provider LLM routing and management. A showcase of clean architecture principles applied to modern AI infrastructure.
 
-</div>
+**Architecture Highlights:**
+- **Pure DDD Implementation** with bounded contexts: Completion Context, Billing Context, Workflow Context, Platform Context
+- **Hexagonal Architecture** with strict port/adapter separation ensuring framework independence
+- **Shared Kernel** for cross-cutting domain concepts and events
+- **Strategic Design Patterns**: Factory, Strategy, Decorator for routing and caching logic
+- **Value Objects** for type safety: Cost, ModelName, Prompt, Tokens
+- **Domain Services** for complex business logic (Provider Factory, Routing Strategies)
 
-### [Django Observability](https://github.com/mahdighadiriii/django-observability)
+**Technical Implementation:**
+- Multi-provider adapters (OpenAI, Anthropic, Google Gemini) with unified interface
+- Intelligent routing strategies: cost optimization, quality prioritization, speed optimization
+- Application layer with use cases, DTOs, and cross-cutting concerns (cache, retry decorators)
+- Infrastructure layer with adapters for external systems (cache, persistence, providers)
+- Comprehensive test coverage following testing pyramid
 
-Production-ready Django middleware for comprehensive application monitoring with OpenTelemetry integration.
+**Tech Stack:** Python, FastAPI, Domain-Driven Design, Hexagonal Architecture, Poetry, pytest
 
-<p>
-<a href="https://pypi.org/project/django-observability/"><img src="https://img.shields.io/pypi/v/django-observability?color=00D9FF&style=flat-square" /></a>
-<a href="https://pypi.org/project/django-observability/"><img src="https://img.shields.io/pypi/dm/django-observability?color=00FF87&style=flat-square" /></a>
-<a href="https://github.com/mahdighadiriii/django-observability"><img src="https://img.shields.io/github/stars/mahdighadiriii/django-observability?color=FF6B9D&style=flat-square" /></a>
-</p>
+**Why This Matters:** Demonstrates ability to architect complex systems following enterprise patterns, separating business logic from infrastructure concerns, and building maintainable, testable code at scale.
 
-**Key Features:**
-- Real-time metrics & distributed tracing
-- Query performance monitoring
+---
+
+### **[Django Observability](https://github.com/mahdighadiriii/django-observability)**
+[![PyPI](https://img.shields.io/pypi/v/django-observability?color=blue)](https://pypi.org/project/django-observability/) [![Downloads](https://img.shields.io/pypi/dm/django-observability)](https://pypi.org/project/django-observability/)
+
+Production-ready Django middleware providing comprehensive application monitoring with OpenTelemetry integration.
+
+**Features:**
+- Real-time metrics and distributed tracing
+- Database query performance monitoring  
 - Prometheus, Loki & Tempo integration
 - Production-tested on high-traffic systems
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**Impact:** Actively used in production environments, helping teams gain visibility into Django application performance
 
-<!-- GitHub Stats -->
-## GitHub Analytics
+---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahdighadiriii&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF&icon_color=00FF87&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mahdighadiriii&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF" />
-</p>
+## Certifications & Continuous Learning
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdighadiriii&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahdighadiriii&bg_color=0D1117&color=00D9FF&line=00FF87&point=FF6B9D&area=true&hide_border=true" />
-</p>
+- **Associate DevOps Certification** - Arvan Cloud (2025)
+- **FastAPI Certification** - Maktabkhooneh (2025)  
+- **Linux Operating System** - Maktabkhooneh (2022)
+- **Django Rest Framework Developer (DDC)** - Maktabkhooneh (2023)
+- **Python Web Developer (PWD)** - Laitec (2021)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdighadiriii&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## Open Source & Community
 
-<!-- Skills Matrix -->
-## Expertise Level
+I maintain **django-observability**, an open-source monitoring solution for Django applications with active users in production environments.
 
-| Technology | Proficiency | Experience |
-|:-----------|:-----------:|:----------:|
-| Python | `███████████████████░` 95% | 3+ years |
-| Django | `██████████████████░░` 90% | 3+ years |
-| FastAPI | `███████████████░░░░░` 75% | 1+ years |
-| PostgreSQL | `█████████████████░░░` 85% | 3+ years |
-| Docker/K8s | `███████████████░░░░░` 75% | 2+ years |
-| Redis | `█████████████████░░░` 85% | 2+ years |
+**Open to:**
+- Open source collaboration on DevOps and backend infrastructure projects
+- Technical consulting for system architecture and scalability challenges  
+- Speaking engagements on DDD, Hexagonal Architecture, or DevOps practices
+- Mentoring backend engineers transitioning to senior roles
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-
-<!-- Connect Section -->
 ## Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahdi-ghadiriii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mahdighadiriafzal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mahdighadiriii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+💼 [LinkedIn](https://www.linkedin.com/in/mahdi-ghadiriii/) • 💻 [GitHub](https://github.com/mahdighadiriii) • 📧 mahdighadiriafzal@gmail.com
 
-### Open For
+---
 
-<table align="center">
-<tr>
-<td align="center">Open Source<br/>Collaboration</td>
-<td align="center">Backend<br/>Consulting</td>
-<td align="center">Tech Talks<br/>& Workshops</td>
-<td align="center">Mentoring<br/>Developers</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<sub>From [mahdighadiriii](https://github.com/mahdighadiriii) • Last updated: Auto-generated via GitHub Actions</sub>
-
-</div>
+*Building scalable systems, one microservice at a time.*
