@@ -60,30 +60,6 @@ Building production-grade distributed systems with Python, Django, and cloud-nat
 **Task Queues:** Celery  
 **Patterns:** Event-Driven Architecture • Pub/Sub • Message Queue Patterns
 
-## Open Source Contributions
-
-**Active Contributor** to major Python and Django ecosystem projects with focus on core functionality improvements and bug fixes.
-
-### Notable Contributions
-
-**Django Core** - Multiple merged PRs improving Django's ORM, documentation, and error handling
-- Fixed QuerySet.bulk_create() to set pk of created objects when `ignore_conflicts=True` (#30138)
-- Enhanced Prefetch error handling with raw() queryset (#31044, #31039)
-- Improved RelatedManager.set() to preserve m2m relations (#31095)
-- Documentation improvements for Django 3.0 release (#31069)
-
-**Django Ecosystem** - Contributing to community packages
-- django-formtools: Python 3 migration and testing improvements
-- django-axes: Refactoring and test optimization
-- pip-tools: Testing infrastructure and Python 3.8 support
-
-**Contribution Stats:**
-- 913+ contributions across multiple repositories
-- Active in code review, issues, and pull requests
-- Maintainer of django-observability package
-
----
-
 ## Featured Projects
 
 ### **[AI Gateway - DDD + Hexagonal Architecture](https://github.com/mahdighadiriii/AiGateway-DDD-Hexagonal)**
