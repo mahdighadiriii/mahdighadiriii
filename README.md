@@ -60,30 +60,27 @@ Building production-grade distributed systems with Python, Django, and cloud-nat
 **Task Queues:** Celery  
 **Patterns:** Event-Driven Architecture • Pub/Sub • Message Queue Patterns
 
----
+## Open Source Contributions
 
-## GitHub Activity
+**Active Contributor** to major Python and Django ecosystem projects with focus on core functionality improvements and bug fixes.
 
-<div align="center">
+### Notable Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdighadiriii&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00FF87&text_color=c9d1d9&bg_color=00000000)
+**Django Core** - Multiple merged PRs improving Django's ORM, documentation, and error handling
+- Fixed QuerySet.bulk_create() to set pk of created objects when `ignore_conflicts=True` (#30138)
+- Enhanced Prefetch error handling with raw() queryset (#31044, #31039)
+- Improved RelatedManager.set() to preserve m2m relations (#31095)
+- Documentation improvements for Django 3.0 release (#31069)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdighadiriii&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=00000000&langs_count=6)
+**Django Ecosystem** - Contributing to community packages
+- django-formtools: Python 3 migration and testing improvements
+- django-axes: Refactoring and test optimization
+- pip-tools: Testing infrastructure and Python 3.8 support
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahdighadiriii&theme=transparent&hide_border=true&background=00000000&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&dates=c9d1d9)
-
-</div>
-
-### Most Used Technologies
-
-| Category | Technologies | Usage Level |
-|----------|-------------|-------------|
-| **Backend Frameworks** | Django, FastAPI, DRF | ![](https://img.shields.io/badge/Expert-95%25-00D9FF) |
-| **Languages** | Python, SQL | ![](https://img.shields.io/badge/Expert-95%25-00D9FF) |
-| **Databases** | PostgreSQL, Redis | ![](https://img.shields.io/badge/Advanced-85%25-00FF87) |
-| **DevOps** | Docker, Kubernetes, GitLab CI | ![](https://img.shields.io/badge/Advanced-80%25-00FF87) |
-| **Observability** | Prometheus, Grafana, Loki | ![](https://img.shields.io/badge/Advanced-85%25-00FF87) |
-| **Architecture** | DDD, Hexagonal, Microservices | ![](https://img.shields.io/badge/Advanced-80%25-00FF87) |
+**Contribution Stats:**
+- 913+ contributions across multiple repositories
+- Active in code review, issues, and pull requests
+- Maintainer of django-observability package
 
 ---
 
